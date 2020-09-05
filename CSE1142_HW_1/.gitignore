@@ -1,0 +1,4 @@
+#ignored files
+.idea/
+*.iml
+../CSE1142_HW1/out/
